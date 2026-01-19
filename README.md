@@ -56,7 +56,4 @@ During preprocessing, additional features are created:
 - `hypertension`
 - `obesity`
 
----
-
-## Project Structure
 
