@@ -1,0 +1,5 @@
+,age_years,age_years,age_years,ap_hi,ap_hi,ap_hi,ap_lo,ap_lo,ap_lo,bmi,bmi,bmi,pulse_pressure,pulse_pressure,pulse_pressure
+,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+cardio,,,,,,,,,,,,,,,
+0,51.7,52.0,6.77,119.72,120.0,12.68,78.14,80.0,8.13,26.49,25.48,4.82,41.58,40.0,9.16
+1,54.91,55.8,6.34,134.34,130.0,17.62,84.43,80.0,9.44,28.51,27.47,5.54,49.91,50.0,13.54
